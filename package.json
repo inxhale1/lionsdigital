@@ -1,0 +1,32 @@
+{
+  "name": "lionsdigital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inxhale1/lionsdigital.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inxhale1/lionsdigital/issues"
+  },
+  "homepage": "https://github.com/inxhale1/lionsdigital#readme",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "body-parser": "^1.18.3",
+    "chai": "^4.1.2",
+    "chai-http": "^4.2.0",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "helmet": "^3.13.0",
+    "mocha": "^5.2.0",
+    "moment": "^2.22.2",
+    "moment-range": "^4.0.1",
+    "mongodb": "^3.1.6"
+  }
+}
